@@ -17,9 +17,9 @@
     "node"
   ],
   "author": {
-    "name": "Josh Archer",
-    "email": "jarcher@greenriver.edu",
-    "url": "https://github.com/joshbarcher"
+    "name": "Ahmad Reshad Yadgari",
+    "email": "ahmadreshadyadgari@gmail.com",
+    "url": "https://github.com/ahmadyadgari"
   },
   "scripts": {
     "dev": "nodemon server.js",
