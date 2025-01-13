@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "technique_name": "Submerged Spiral Weave",
+        "materials": ["reed", "seagrass"],
+        "difficulty_level": "Intermediate",
+        "steps": [
+            "Soak reeds in water for flexibility.",
+            "Start weaving a spiral base using alternating over-and-under patterns.",
+            "Gradually curve the weave upwards to form the basket walls.",
+            "Secure the rim with a tight binding loop."
+        ],
+        "cultural_origin": "Pacific Islander",
+        "recommended_depth": "3-5 meters"
+    },
+    {
+        "id": 2,
+        "technique_name": "Oceanic Twine Wrap",
+        "materials": ["kelp strips", "bamboo"],
+        "difficulty_level": "Advanced",
+        "steps": [
+            "Harvest fresh kelp and split into strips.",
+            "Twine the kelp strips around a bamboo frame.",
+            "Interlock the strips at key points to add structural integrity.",
+            "Seal with natural resin if available."
+        ],
+        "cultural_origin": "Southeast Asian",
+        "recommended_depth": "2-4 meters"
+    },
+    {
+        "id": 3,
+        "technique_name": "Marine Coil Method",
+        "materials": ["willow branches", "water hyacinth fibers"],
+        "difficulty_level": "Beginner",
+        "steps": [
+            "Form a tight coil using willow branches.",
+            "Wrap water hyacinth fibers around the coil as you progress.",
+            "Ensure consistent tension for an even basket shape.",
+            "Finish by tying off the end securely."
+        ],
+        "cultural_origin": "Central African",
+        "recommended_depth": "1-2 meters"
+    },
+    {
+        "id": 4,
+        "technique_name": "Braided Sea Vine Weave",
+        "materials": ["sea vines", "coconut fibers"],
+        "difficulty_level": "Intermediate",
+        "steps": [
+            "Braid the sea vines into three long cords.",
+            "Weave the cords into a basket pattern, starting from the base.",
+            "Reinforce the sides by adding layers of braided vine.",
+            "Use coconut fibers to create a sturdy handle."
+        ],
+        "cultural_origin": "Caribbean",
+        "recommended_depth": "4-6 meters"
+    },
+    {
+        "id": 5,
+        "technique_name": "Deep Water Knotting",
+        "materials": ["nylon rope", "algae fibers"],
+        "difficulty_level": "Advanced",
+        "steps": [
+            "Tie an initial knot to secure the frame.",
+            "Interweave algae fibers with nylon rope to form the basket body.",
+            "Use specialized underwater knot techniques to secure the weave.",
+            "Finish by tightening all knots and trimming excess material."
+        ],
+        "cultural_origin": "Modern Experimental",
+        "recommended_depth": "6-8 meters"
+    },
+    {
+        "id": 6,
+        "technique_name": "Coral Frame Weave",
+        "materials": ["coral branches", "seaweed"],
+        "difficulty_level": "Intermediate",
+        "steps": [
+            "Collect coral branches and arrange them into a frame.",
+            "Weave seaweed strips through the coral to form a sturdy basket.",
+            "Reinforce weak areas with additional seaweed layers.",
+            "Ensure no gaps remain for a watertight finish."
+        ],
+        "cultural_origin": "Mediterranean",
+        "recommended_depth": "5-7 meters"
+    },
+    {
+        "id": 7,
+        "technique_name": "Woven Driftwood Basket",
+        "materials": ["driftwood pieces", "seagrass ropes"],
+        "difficulty_level": "Beginner",
+        "steps": [
+            "Collect small driftwood pieces and smooth out rough edges.",
+            "Create a base by binding pieces together with seagrass ropes.",
+            "Weave additional seagrass ropes through the driftwood to form walls.",
+            "Secure the top with a final rope loop."
+        ],
+        "cultural_origin": "Northern European",
+        "recommended_depth": "2-3 meters"
+    }
+]
