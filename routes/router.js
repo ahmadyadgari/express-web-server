@@ -9,5 +9,8 @@ router.get("/addMessage", controller.addMessage);
 router.get("/course", controller.course);
 router.get("/unknown", controller.unknown);
 router.get("/underwater/techniques", controller.underwaterTechniques);
+router.get("/pages", controller.pageLoader);
+router.get("/name", controller.printName);
+
 
 export default router;
